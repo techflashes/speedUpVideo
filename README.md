@@ -17,4 +17,4 @@ javascript:(function(){var speed = prompt("Speed?");if (speed!==null){document.g
 
 # Youtube
 
-[Youtube Videp](https://www.youtube.com/watch?v=eCONgKZTPE4)
+[Youtube Video](https://www.youtube.com/watch?v=eCONgKZTPE4)
